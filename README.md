@@ -9,7 +9,7 @@ Instalar Ruby y usar ruby--version para comprobar la versión instalada. Instala
 
 Aqui compruebo la versión instalada:
 
-[captura]
+![captura1](https://dl.dropbox.com/s/j8zqm3k0p4f7fmx/version_ruby.png)
 
 #### Ejercicio 2
 
