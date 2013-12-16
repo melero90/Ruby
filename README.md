@@ -5,7 +5,7 @@ Seminario Ruby
 
 Instalar Ruby y usar ruby--version para comprobar la versión instalada. Instalar tambien irb, rubygems y rdoc.
 
-> sudo apt-get install ruby
+> sudo apt-get install ruby1.9.3
 
 Aqui compruebo la versión instalada:
 
@@ -24,3 +24,15 @@ Crear un programa en Ruby que imprima los números desde el 1 hasta otro conteni
 
 ¿Se pueden crear estructuras de datos mixtas en Ruby? Crear un array de hashes de arrays e imprimirlo.
 
+    arrays = { 
+            :a => ['a','e'],
+            :b => ['i','o'],
+            :c => ['u','son','las','vocales']
+    }
+    puts arrays.inspect
+    
+#### Ejercicio 4
+
+Crear una serie de funciones instanciadas con un URL que devuelvan algún tipo de información sobre el mismo: fecha de última modificación, por ejemplo. Pista: esa información está en la cabecera HTTP que devuelve
+
+#### Ejercicio 5
