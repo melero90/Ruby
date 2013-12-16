@@ -1,4 +1,4 @@
-Ruby
-====
+Seminario Ruby
+==============
 
-Ejercicios seminario de Ruby
+
