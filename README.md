@@ -19,3 +19,8 @@ Crear un programa en Ruby que imprima los números desde el 1 hasta otro conteni
     for i in(0..9)
         puts i
     end
+
+#### Ejercicio 3
+
+¿Se pueden crear estructuras de datos mixtas en Ruby? Crear un array de hashes de arrays e imprimirlo.
+
