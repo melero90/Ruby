@@ -15,7 +15,7 @@ Aqui compruebo la versión instalada:
 
 Crear un programa en Ruby que imprima los números desde el 1 hasta otro contenido en una variable.
 
-> #!/usr/bin/ruby
-for i in(0..9)
-    puts i
-end
+    #!/usr/bin/ruby
+    for i in(0..9)
+        puts i
+    end
