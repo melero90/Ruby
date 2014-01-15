@@ -52,6 +52,12 @@ Crear una serie de funciones instanciadas con un URL que devuelvan algún tipo d
 
 #### Ejercicio 5
 
+Ver si está disponible Vagrant como una gema de Ruby e instalarla.
+
+Para ver si esta disponible escribimos en el terminal lo siguiente:
+
+    gem search --remote vagrant 
+
 Para instalar vagrant hay que ejecutar el siguiente comando:
 
     sudo gem install vagrant
