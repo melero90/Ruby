@@ -1,6 +1,8 @@
 Seminario Ruby
 ==============
 
+##### Antonio Melero Bello
+
 #### Ejercicio 1
 
 Instalar Ruby y usar ruby--version para comprobar la versión instalada. Instalar tambien irb, rubygems y rdoc.
